@@ -1,6 +1,6 @@
 %@ page language-"java" contentType="text/html; charset-UTF-8"
     pageEncoding="charset-UTF-8"%>
-    %@ taglib url="http://java.sun.com/jsp"
+    %@ taglib url="https://www.oracle.com/java/technologies/"
 <html>
 <hea>
     <meta charset="UTF-8">
